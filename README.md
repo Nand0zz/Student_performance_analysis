@@ -2,7 +2,7 @@
 This project analyzes the performance of students based on various factors using a dataset (https://1drv.ms/x/c/0347b1504075ab17/EbIx5gTb5m5KpIf54Stp-HoBL9Kyzn-pLzjq2Pmd8_zLsQ?e=7VEuXI&nav=MTVfezkwQjAyRjNBLURFNTAtNEIyNC04OUI0LTYxNDYwMjFBNTJENX0). The analysis explores different aspects such as demographic information, family background, and academic performance indicators to understand the factors influencing students' final grades.
 
 # Dataset Description
-1 school - student's school (binary: "GP" - Gabriel Pereira or "MS" - Mousinho da Silveira);
+1 school - student's school (binary: "GP" - Gabriel Pereira or "MS" - Mousinho da Silveira)
 2 sex - student's sex (binary: "F" - female or "M" - male)
 3 age - student's age (numeric: from 15 to 22)
 4 address - student's home address type (binary: "U" - urban or "R" - rural)
